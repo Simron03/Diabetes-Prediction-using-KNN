@@ -1,2 +1,2 @@
 # Diabetes-Prediction-using-KNN
-Diabetes Prediction using KNN
+Predicting Diabetes using KNN Classifier model
